@@ -1,0 +1,49 @@
+# svn gitignore
+.svn/
+
+## cvs gitignore
+/CVS/*
+*/CVS/*
+.cvsignore
+*/.cvsignore
+
+## eclipse gitignore
+*.pydevproject
+##.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+##.classpath
+##.settings/
+.loadpath
+
+## Mac OSX gitignore
+.DS_Store
+##Icon?
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+## Windows OS
+# Windows image file caches
+Thumbs.db 
+
+# Folder config file
+Desktop.ini
+
+## java ignore
+*.class
+
+## maven gitignore
+target/
+
