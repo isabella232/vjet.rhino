@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Vendor: %pluginProvider
 Bundle-Name: %pluginName
 Bundle-SymbolicName: org.eclipse.vjet.extmod.rhino
-Bundle-Version: 0.9.0.qualifier
+Bundle-Version: 0.9.1
 Bundle-ActivationPolicy: lazy
 Bundle-Localization: plugin
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
